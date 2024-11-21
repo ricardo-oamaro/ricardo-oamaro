@@ -73,17 +73,8 @@
 <h3> My Contacts </h3>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/ricardolmachado/" target="_blank">
+  <a href="https://www.linkedin.com/in/ricardo-amaro-0955b629/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://beacons.ai/RicardoLMachado" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linktree logo"  />
-  </a>
-  <a href= "mailto:ricardo@dtmm.com.br" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="microsoft-outlook logo"  />
-  </a>
-   <a href="https://api.whatsapp.com/send?phone=5519991927277" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
   </a>
 </div>
 
